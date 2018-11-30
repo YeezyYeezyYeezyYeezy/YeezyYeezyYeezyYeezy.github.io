@@ -1,0 +1,76 @@
+h1 {
+    color: burlywood;
+    background-color: transparent;
+    margin: 75px;
+    padding: 40px;
+    text-align: center;
+    font: bold;
+    
+     
+}
+body {
+    background-image: url(kidsseeghosts.jpeg)
+}
+body {
+    background-image: url(kanye.jpeg) class=(center)
+}
+
+iframe {
+    transition transform 1s;
+    transition width 2s;
+
+    width: 530px;
+    height: 370px;
+}
+
+iframe :hover {
+    transition transform 1s;
+}
+
+nav ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background-color: cadetblue;
+}
+
+nav ul li {
+    float: left;
+    
+}
+
+nav ul li a {
+    display: block;
+    padding: 10px;
+    background-color: cadetblue;
+    text-decoration: none;
+    color: lightcoral
+}
+
+nav ul li a:hover {
+    background-color: burlywood
+}
+
+.pullquote {
+    margin-left: 80px;
+    margin-right: 80px;
+    font-style: italic;
+    font-size: 1.5em;
+}
+
+#special {
+    background-color: darkred
+}
+
+title {
+    color: rgb(182, 208, 255);
+    background-color: darkorchid;
+    margin: 75px;
+    padding: 40px;
+    text-align: center;
+    font: bold;  
+}
